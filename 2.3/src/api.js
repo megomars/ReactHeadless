@@ -1,4 +1,4 @@
-const baseUrl = 'http://localhost/wp-json/wp/v2/';
+const baseUrl = 'http://localhost:8888/tutsplusWP/wp-json/wp/v2/';
 
 export default class Api {
 

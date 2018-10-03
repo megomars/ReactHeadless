@@ -5,6 +5,7 @@ function Post(props) {
         <div className="row">
             <h3>{props.title.rendered}</h3>
             <div dangerouslySetInnerHTML={{__html: props.content.rendered}} />
+            <hr/>
         </div>
     );
 }

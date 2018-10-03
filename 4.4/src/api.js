@@ -1,5 +1,5 @@
-const baseUrl = 'http://localhost/wp-json/wp/v2/';
-const authUrl = 'http://localhost/wp-json/jwt-auth/v1'
+const baseUrl = 'http://localhost:8888/tutsplusWP/wp-json/wp/v2/';
+const authUrl = 'http://localhost:8888/tutsplusWP/wp-json/jwt-auth/v1'
 
 export default class Api {
 
